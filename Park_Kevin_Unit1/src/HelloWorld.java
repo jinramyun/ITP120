@@ -1,7 +1,7 @@
 /**
  * @author: Kevin Park
  * Unit 1
- * Prints out statement saying "Hello World" when run
+ * Prints out statement saying "Hello World"
  **/
 
 
